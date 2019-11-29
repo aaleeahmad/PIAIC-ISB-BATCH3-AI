@@ -1,1 +1,1 @@
-# piaic_islamabad_batch3
+# PIAIC-ISB-BATCH3-AI
